@@ -2,7 +2,7 @@
 
 ## Introduction
 
-#### Este Bypass es funcional en > = server Ubuntu 20.04
+#### Este Bypass es funcional en < = server Ubuntu 20.04
 
 LXD es un «hipervisor» de contenedores y máquinas virtuales, 
 El escalado de privilegios funciona gracias a que LXD es instaldo por defecto 
